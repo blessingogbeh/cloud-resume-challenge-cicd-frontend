@@ -1,4 +1,4 @@
 Description of the project details
 
 
-![My_Cloud_Resume_Challenge](Org_charts.png)
+![My Cloud Resume Challenge Architecture Diagram](Org_charts.png)
