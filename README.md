@@ -21,4 +21,4 @@ This portion of the Challenge utilizes Lambda, DynamoDB and some Javascript to r
 With the use of Github and Github Actions, one is able to push changes in code to the S3 bucket while keeping the entire architecture intact. I've utilized a yaml workflow in Github Actions and with my s3 bucket name and AWS account secrets, I'm able to seamlessly push changes into the S3 bucket.
 
 ***
-You can find details of this project including step by step approach I took in completing challenge, the chalenges I faced and how I overcame them in my blog here.
+You can find details of this project including step by step approach I took in completing challenge, the chalenges I faced and how I overcame them in my blog <span><a href="https://medium.com/@boogbeh/my-cloud-resume-challenge-d5a8484d9a69">here</a></span>.
